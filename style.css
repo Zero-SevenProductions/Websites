@@ -1,0 +1,77 @@
+	@font-face{
+			
+	font-family: Arvo;
+	src: url(Arvo-Regular.ttf);
+
+	}
+
+
+	body {
+	
+    text-align: center;
+	color: #ffffff;
+	font-family: Arvo;
+	font-size: 25px;
+	
+	}
+	
+	hr {
+	
+	color: #ffffff
+    height: 1px;
+	margin-left: 30%;
+	margin-right: 30%;
+	border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	
+	}
+	
+	a.Navlink {
+
+	color: #ffffff;
+	text-align: center;
+	
+	}
+	
+	a:hover {
+	
+    color: #cccccc;
+	text-decoration: none;
+	
+	
+	}
+	
+	a:visited, a:link, a:active {
+	
+    text-decoration: none;
+	
+	}
+	
+	footer {
+	
+	font-size: 15px;
+	
+	}
+	
+	ul {
+	
+	margin-left: 30%;
+	margin-right: 30%;
+	color: #ffffff
+	
+	}
+	
+	a.Resource{
+	
+	color:#ffffff;
+	text-align: left;
+	
+	}
+	
+	a.Resource:hover{
+	
+	color:#cccccc;
+	
+	}
